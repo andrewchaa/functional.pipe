@@ -2,6 +2,16 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>functional.pipe</PackageId>
+        <Version>0.1.0</Version>
+        <Authors>Andrew Chaa</Authors>
+        <AssemblyName>Functional.Pipe</AssemblyName>
+        <RootNamespace>Functional.Pipe</RootNamespace>
+        <PackageProjectUrl>https://github.com/andrewchaa/functional.pipe</PackageProjectUrl>
+        <PackageIconUrl>https://raw.githubusercontent.com/andrewchaa/FunctionalWay/master/src/Library/icon.jpeg</PackageIconUrl>
+        <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+        <PackageTags>Functional Pipe</PackageTags>
     </PropertyGroup>
 
 </Project>
