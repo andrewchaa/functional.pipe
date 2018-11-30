@@ -1,5 +1,7 @@
 # functional.pipe
 
+[![NuGet](https://buildstats.info/nuget/functional.pipe)](https://www.nuget.org/packages/functional.pipe/)
+
 C# implementation of F# pipe
 
 Piping helps you divide complex problem into smaller, simple operation and handle them one by one. Also, with careful use, the code will read much better and more like a natural language.
