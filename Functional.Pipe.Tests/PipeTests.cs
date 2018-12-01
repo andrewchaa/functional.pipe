@@ -9,7 +9,6 @@ namespace Functional.Pipe.Tests
         Cat
     }
 
-    
     public class PipeTests
     {
         [Fact]
